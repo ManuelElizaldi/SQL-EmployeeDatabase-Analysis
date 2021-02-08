@@ -1,8 +1,8 @@
 # Pewlett-Hackard-Analysis
-#Overview of the analysis:
+## Overview of the analysis:
 In this project we analyzed Pewlett Hackard's employee's databases to help the HR Analysis Department determine what positions will be filled in the future and which employees are eligibale for a retirement package. 
 
-#Results: 
+## Results: 
 The results we found are provided below:
 1. There are 90.398 employees who will retire, which of 1940 are eligible for the mentorship program.
 2. Pewlett Hackard has 300,024 emplyees, so the employees who will be retiring represents the 30.13%.
@@ -13,8 +13,7 @@ The results we found are provided below:
 
 ![](/Resources/retiring_titles_pie.png)
 
-#Summary: 
-Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+## Summary: 
 
 How many roles will need to be filled as the "silver tsunami" begins to make an impact? The company will need to fill 90.398 positions or 30.13% of their total employee population. We can apply a count query to the unique_titles.csv table to get the total amount of employees that will retire. 
 
