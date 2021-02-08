@@ -9,8 +9,8 @@ The results we found are provided below:
 3. The position with the most retireing employees is Senior Engineer.
 4. The corresponding percentages of retiring employees for each title is: Senior Engineer 32%, Senior Staff 31%, Engineer 16%, Staff 14%, Technique Leader 5%, Assistant Engineer 2%, Manager less than 1%. 
 
-![]() 
-![]()
+![](/Resources/retiring_titles.png) 
+![](/Resources/retiring_titles_pie.png)
 
 #Summary: 
 Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
