@@ -4,7 +4,7 @@ In this project we analyzed Pewlett Hackard's employee's databases to help the H
 
 #Results: 
 The results we found are provided below:
-1. There are 90.398 employees who will retire. 
+1. There are 90.398 employees who will retire, which of 1940 are eligible for the mentorship program.
 2. Pewlett Hackard has 300,024 emplyees, so the employees who will be retiring represents the 30.13%.
 3. The position with the most retireing employees is Senior Engineer.
 4. The corresponding percentages of retiring employees for each title is: Senior Engineer 32%, Senior Staff 31%, Engineer 16%, Staff 14%, Technique Leader 5%, Assistant Engineer 2%, Manager less than 1%. 
