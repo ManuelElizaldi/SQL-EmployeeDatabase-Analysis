@@ -17,6 +17,7 @@ The results we found are provided below:
 Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 
 How many roles will need to be filled as the "silver tsunami" begins to make an impact? The company will need to fill 90.398 positions or 30.13% of their total employee population. We can apply a count query to the unique_titles.csv table to get the total amount of employees that will retire. 
+
 ![](/Resources/unique_titles_count.png)
 
 
