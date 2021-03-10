@@ -1,6 +1,6 @@
 # Pewlett-Hackard-Analysis
 ## Overview of the analysis:
-In this project we analyzed Pewlett Hackard's employee's databases to help the HR Analysis Department determine what positions will be filled in the future and which employees are eligibale for a retirement package. 
+In this project we analyzed Pewlett Hackard's employee's databases to help the HR Analysis Department determine what positions will be filled in the future and which employees are  eligible for a retirement package. 
 
 ## Results: 
 The results we found are provided below:
