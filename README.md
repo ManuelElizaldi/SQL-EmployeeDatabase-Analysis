@@ -5,7 +5,7 @@ The Objective of this project is to determine the number of retiring employees p
 ### Programs used
 - SQL
 
-We had to wrangle the original dataset using SQL to filter out the information we did not need and then create new tables that allowed us to perform different analysis. The script used for this can be found on the Data folder. 
+We had to wrangle the original dataset using SQL to filter out the information we did not need and then create new tables that allowed us to perform different analysis. The script used for this can be found on the Queries folder. 
 
 ## Results: 
 The results we found are provided below:
