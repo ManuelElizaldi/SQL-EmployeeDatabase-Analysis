@@ -1,6 +1,6 @@
-# Pewlett-Hackard-Analysis
+# Pewlett Hackard Analysis
 ## Overview of the analysis:
-In this project we analyzed Pewlett Hackard's employee's databases to help the HR Analysis Department determine what positions will be filled in the future and which employees are  eligible for a retirement package. 
+The Objective of this project is to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program in order to help the HR Department. For this, we used the company's employees data set which can be found in the Data folder. We had to wrangle the original dataset to filter out the information we did not need using SQL. The querry that I wrote to accomplish this can also be found in the Data folder.  
 
 ## Results: 
 The results we found are provided below:
@@ -18,7 +18,6 @@ The results we found are provided below:
 How many roles will need to be filled as the "silver tsunami" begins to make an impact? The company will need to fill 90.398 positions or 30.13% of their total employee population. We can apply a count query to the unique_titles.csv table to get the total amount of employees that will retire. 
 
 ![](/Resources/unique_titles_count.png)
-
 
 The total amount of employees that are qualified for the mentorship program is 1940, which represents the 0.64% of the total employees. With this numbers, each retired employee would have to mentor 155 employees. We can determine that there are not enough qualified employees to mentor the next generation of Pewlett Hackard employees. To get the total amount of employees that are eligible for the mentorship program we can apply a filter to the retiring_titles.csv and then a count selec query and we get the following table as a result:  
 ![](/Resources/mentorship_eligibility_count.png)
