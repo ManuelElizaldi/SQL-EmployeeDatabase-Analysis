@@ -1,4 +1,3 @@
-- challenge --
 select e.emp_no, e.first_name, e.last_name, t.title, t.from_date, t.to_date
 into retirement_titles
 from employees as e
